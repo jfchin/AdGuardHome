@@ -12,3 +12,5 @@
 !
 ||outcome-ssp.supersonicads.com^
 ||gak.webtoons.com^
+||a.applvn.com^
+||a.applovin.com^
